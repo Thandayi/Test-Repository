@@ -1,3 +1,3 @@
-# Test-Repository
+# My first repository
 
-This is a second example
+I am a quick learner
